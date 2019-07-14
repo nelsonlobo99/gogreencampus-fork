@@ -1,6 +1,6 @@
 # GoGreenCampus
 
-This is a retired college project, made furiously by [Nelson Lobo](https://github.com/nelsonlobo99) and I, after our [Laser Communications Projects](Laser Communications System) got rejected for being "too complicated" (lmao). 
+This is a retired college project, made furiously by [Nelson Lobo](https://github.com/nelsonlobo99) and I, after our [Laser Communications Projects](https://gitlab.com/5b43f91c61170e88de567951ebbec765/laser-communications-system) got rejected for being "too complicated" (lmao). 
 
 ### What's this?
 
@@ -14,6 +14,6 @@ You can grab the APK file [here](https://gitlab.com/5b43f91c61170e88de567951ebbe
 <hr>
 <b>CREDITS</b>: 
 
-..* [Nelson Lobo](https://github.com/nelsonlobo99): Apache Server Backend, SQL programming, Kotlin programming (Volley implementation, GraphView Library).
+* [Nelson Lobo](https://github.com/nelsonlobo99): Apache Server Backend, SQL programming, Kotlin programming (Volley implementation, GraphView Library).
 
-..* [Owais Shaikh](https://gitlab.com/5b43f91c61170e88de567951ebbec765): Database Design and Maintenance,  Metrics algorithm design, User Interface (XML Programming and Material Dark), SQL programming, theory, presentation and reports.
+* [Owais Shaikh](https://gitlab.com/5b43f91c61170e88de567951ebbec765): Database Design and Maintenance,  Metrics algorithm design, User Interface (XML Programming and Material Dark), SQL programming, theory, presentation and reports.
