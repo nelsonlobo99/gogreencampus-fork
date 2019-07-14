@@ -21,6 +21,6 @@ To clone this project:
 
 * [Nelson Lobo](https://github.com/nelsonlobo99): Apache Server backend, some SQL programming, Kotlin programming (Volley implementation, GraphView Library).
 
-* [Owais Shaikh](https://gitlab.com/5b43f91c61170e88de567951ebbec765): Database Design and Maintenance,  Metrics algorithm design, User Interface (XML Programming and Material Dark), some SQL programming, theory, presentation and reports.
+* [Owais Shaikh](https://gitlab.com/5b43f91c61170e88de567951ebbec765): Database Design and Maintenance,  Metrics algorithm design, User Interface (XML Programming and Material Dark), some SQL programming, case study, presentation and reports.
 
 <b>License</b>: [Copyright (C) 2019  Owais Shaikh and Nelson Lobo](LICENSE)
