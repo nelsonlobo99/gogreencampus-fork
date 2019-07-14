@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/colorPrimaryDark">
+    <item
+        android:id="@+id/action_help"
+        android:orderInCategory="100"
+        android:title="Help and Feedback"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_logout"
+        android:orderInCategory="100"
+        android:title="Log Out"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_quit"
+        android:orderInCategory="100"
+        android:title="Quit"
+        app:showAsAction="never" />
+</menu>

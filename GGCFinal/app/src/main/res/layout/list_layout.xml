@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+   <!-- <android.support.v7.widget.CardView
+        android:id="@+id/ins1"
+        android:layout_width="match_parent"
+        android:layout_height="180dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:background="@color/colorPrimaryDark"
+        app:cardBackgroundColor="@color/colorPrimaryDark"
+        app:cardCornerRadius="4dp"
+        app:cardElevation="5dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.027">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView23"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="8dp"
+                android:text="Goal: 70%  |  Environmental Index: 4.1/5.0 (↑0%)"
+                android:textSize="15sp" />
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>-->
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_margin="5dp"
+        app:cardBackgroundColor="@color/colorPrimaryDark"
+        app:cardCornerRadius="4dp"
+        app:cardElevation="5dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/waste"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:paddingLeft="8dp"
+                android:text="Collected 5 liters of solid waste"
+                android:textColor="@color/colorAccent"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/CardNote"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_centerVertical="true"
+                android:paddingLeft="10.5dp"
+                android:text="Leaves near the principal's office"
+                android:textColor="@color/colorAccent" />
+
+            <TextView
+                android:id="@+id/type"
+                android:layout_width="wrap_content"
+                android:layout_height="25dp"
+                android:layout_alignParentStart="true"
+                android:layout_below="@+id/CardNote"
+                android:gravity="center_vertical"
+                android:paddingLeft="11dp"
+                android:text="Item is biodegrdable"
+                android:textColor="@color/colorAccent"
+                android:textSize="12sp" />
+
+            <TextView
+                android:id="@+id/vis"
+                android:layout_width="40dp"
+                android:layout_height="20dp"
+                android:layout_alignBottom="@+id/type"
+                android:layout_toEndOf="@+id/vol"
+                android:foregroundTint="@color/colorAccent"
+                android:text=" 10KM"
+                android:textAlignment="textStart"
+                android:textColor="@color/colorAccent"
+                android:textSize="13sp" />
+
+            <TextView
+                android:id="@+id/vol"
+                android:layout_width="80dp"
+                android:layout_height="20dp"
+                android:layout_alignBottom="@+id/imageView15"
+                android:layout_alignEnd="@+id/imageView15"
+                android:layout_marginEnd="13dp"
+                android:foregroundTint="@color/colorAccent"
+                android:text="12345"
+                android:textAlignment="viewStart"
+                android:textColor="@color/colorAccent" />
+
+            <ImageView
+                android:id="@+id/imageView15"
+                android:layout_width="20dp"
+                android:layout_height="18dp"
+                android:layout_alignStart="@+id/date"
+                android:layout_alignTop="@+id/vis"
+                android:layout_marginLeft="10dp"
+                android:foregroundTint="@color/colorAccent"
+                android:tint="@color/colorAccent"
+                app:srcCompat="@drawable/ic_visibility_white_48dp" />
+
+            <ImageView
+                android:id="@+id/imageView16"
+                android:layout_width="20dp"
+                android:layout_height="18dp"
+                android:layout_alignTop="@+id/vol"
+                android:layout_toStartOf="@+id/vol"
+                android:foregroundTint="@color/colorAccent"
+                android:tint="@color/colorAccent"
+                app:srcCompat="@drawable/vol" />
+
+            <TextView
+                android:id="@+id/date"
+                android:layout_width="74dp"
+                android:layout_height="20dp"
+                android:layout_alignParentEnd="true"
+                android:layout_alignTop="@+id/waste"
+                android:text="22/03/2018"
+                android:textColor="@color/my_spinner_text_color"
+                android:textSize="13sp" />
+
+        </RelativeLayout>
+
+    </android.support.v7.widget.CardView>
+
+</LinearLayout>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="400dp"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <!-- <android.support.v7.widget.CardView
+         android:id="@+id/ins1"
+         android:layout_width="match_parent"
+         android:layout_height="180dp"
+         android:layout_marginBottom="8dp"
+         android:layout_marginEnd="8dp"
+         android:layout_marginStart="8dp"
+         android:layout_marginTop="8dp"
+         android:background="@color/colorPrimaryDark"
+         app:cardBackgroundColor="@color/colorPrimaryDark"
+         app:cardCornerRadius="4dp"
+         app:cardElevation="5dp"
+         app:layout_constraintBottom_toBottomOf="parent"
+         app:layout_constraintEnd_toEndOf="parent"
+         app:layout_constraintHorizontal_bias="0.0"
+         app:layout_constraintStart_toStartOf="parent"
+         app:layout_constraintTop_toTopOf="parent"
+         app:layout_constraintVertical_bias="0.027">
+
+         <RelativeLayout
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             android:orientation="vertical">
+
+             <TextView
+                 android:id="@+id/textView23"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:layout_alignParentBottom="true"
+                 android:layout_centerHorizontal="true"
+                 android:layout_marginBottom="8dp"
+                 android:text="Goal: 70%  |  Environmental Index: 4.1/5.0 (↑0%)"
+                 android:textSize="15sp" />
+         </RelativeLayout>
+     </android.support.v7.widget.CardView>-->
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/ins1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="8dp"
+        android:background="@color/colorPrimaryDark"
+        app:cardBackgroundColor="@color/colorPrimaryDark"
+        app:cardCornerRadius="2dp"
+        app:cardElevation="5dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.027">
+
+        <!--<ImageView
+            android:id="@+id/imageView6"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:paddingLeft="345dp"
+            android:paddingTop="10dp"
+            app:srcCompat="@drawable/star" /> -->
+
+        <TextView
+            android:id="@+id/insindex"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="5dp"
+            android:paddingTop="8dp"
+            android:text="#1"
+            android:textSize="30sp" />
+
+        <TextView
+            android:id="@+id/insname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="48dp"
+            android:paddingTop="18dp"
+            android:text="Jain Polytechnic Belagavi"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/textView20"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="10dp"
+            android:paddingTop="55dp"
+            android:text="LEED Rating: " />
+
+        <TextView
+            android:id="@+id/rating"
+            android:layout_width="600dp"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="300dp"
+            android:paddingTop="55dp"
+            android:text="  Platinum" />
+
+        <TextView
+            android:id="@+id/leadrank"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="215dp"
+            android:paddingTop="55dp"
+            android:text="  |  LEED Rank: " />
+
+        <TextView
+            android:id="@+id/insgindex"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="90dp"
+            android:paddingTop="55dp"
+            android:text="0.0/5.0 (↑0%)" />
+
+    </android.support.v7.widget.CardView>
+
+</LinearLayout>

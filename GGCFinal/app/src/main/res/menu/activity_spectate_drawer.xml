@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+    android:background="@color/bg">
+
+    <group
+        android:id="@+id/ops"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_dash"
+            android:icon="@drawable/ic_assessment_white_48dp"
+            android:iconTintMode="src_over"
+            android:title="Dashboard"
+            tools:iconTint="@android:color/white"
+            tools:iconTintMode="src_over" />
+        <item
+            android:id="@+id/nav_spec"
+            android:icon="@drawable/ic_visibility_white_48dp"
+            android:iconTintMode="src_over"
+            android:title="Spectate"
+            tools:iconTint="@android:color/white"
+            tools:iconTintMode="src_over" />
+    </group>
+    <group android:id="@+id/config">
+        <item
+            android:id="@+id/nav_set"
+            android:icon="@drawable/ic_settings_white_48dp"
+            android:iconTintMode="src_over"
+            android:title="Settings"
+            tools:iconTint="@android:color/white"
+            tools:iconTintMode="src_over" />
+    </group>
+
+
+</menu>
