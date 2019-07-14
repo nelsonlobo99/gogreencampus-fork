@@ -19,4 +19,4 @@ You can grab the APK file [here](https://gitlab.com/5b43f91c61170e88de567951ebbe
 
 * [Owais Shaikh](https://gitlab.com/5b43f91c61170e88de567951ebbec765): Database Design and Maintenance,  Metrics algorithm design, User Interface (XML Programming and Material Dark), SQL programming, theory, presentation and reports.
 
-<b>License</b>: [Copyright (C) 2019  Owais Shaikh and Nelson Lobo](/blob/master/LICENSE)
+<b>License</b>: [Copyright (C) 2019  Owais Shaikh and Nelson Lobo](LICENSE)
