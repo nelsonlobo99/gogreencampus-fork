@@ -15,7 +15,7 @@ You can grab the APK file [here](https://gitlab.com/5b43f91c61170e88de567951ebbe
 To clone this project:
 ```git clone https://gitlab.com/5b43f91c61170e88de567951ebbec765/gogreencampus```
 
-```[What's new?](CHANGELOG.md)```
+<style="color:green">[What's new?](CHANGELOG.md)```</style>
 
 <hr>
 <b>CREDITS</b>: 
