@@ -26,6 +26,6 @@ To clone this project:
 
 [Open-source notices](NOTICE)
 
-<b>License</b>: [Copyright © 2018-2019  Owais Shaikh and Nelson Lobo](LICENSE)
+<b>License</b>: [Copyright © 2018  Owais Shaikh and Nelson Lobo](LICENSE)
 
 
