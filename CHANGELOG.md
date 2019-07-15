@@ -34,6 +34,8 @@ February 2018
 ### Changed
 - Separated Spectator page from Dashboard.
 - Added ranking algorithm for spectators.
+
+### Added
 - Added 'Visibilty' for air pollution.
 
 ## [0.6a] 
