@@ -1,7 +1,9 @@
 # GoGreenCampus 
 
 This is a retired college project, made furiously by [Nelson Lobo](https://github.com/nelsonlobo99) and I, after our [Laser Communications Project](https://gitlab.com/5b43f91c61170e88de567951ebbec765/laser-communications-system) got rejected for being "too complicated" (lmao). 
+
 [What's new?](CHANGELOG.md)
+
 <b>Note</b>: This project is not officially approved by any health, environment or government organization in any way. It relies purely on [quik mafs](https://www.youtube.com/watch?v=5zexg3wFN70).
 
 ### What is this?
