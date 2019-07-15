@@ -1,14 +1,16 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
-## [1.1b] - March 2018
-### Added
+## [1.1b] 
+March 2018
+### Added 
 - Swipe left to delete.
 - Final build submitted to college for review.
 - Final Public Beta APK released.
 
 
-## [1.0b] - 
+## [1.0b] 
+February 2018
 ### Added
 - Added Item Description
 - First Beta package released.
