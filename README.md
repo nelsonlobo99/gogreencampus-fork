@@ -15,7 +15,7 @@ You can grab the APK file [here](https://gitlab.com/5b43f91c61170e88de567951ebbe
 To clone this project:
 ```git clone https://gitlab.com/5b43f91c61170e88de567951ebbec765/gogreencampus```
 
-## [What's new?](CHANGELOG.md)
+```[What's new?](CHANGELOG.md)```
 
 <hr>
 <b>CREDITS</b>: 
@@ -24,4 +24,4 @@ To clone this project:
 
 * [Owais Shaikh](https://gitlab.com/5b43f91c61170e88de567951ebbec765): Database Design and Maintenance,  Metrics algorithm design, User Interface (XML Programming and Material Dark), some SQL programming, case study, presentation and reports.
 
-<b>License</b>: [Copyright (C) 2019  Owais Shaikh and Nelson Lobo](LICENSE)
+<b>License</b>: [Copyright © 2018  Owais Shaikh and Nelson Lobo](LICENSE)
