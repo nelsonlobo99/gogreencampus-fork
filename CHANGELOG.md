@@ -2,16 +2,16 @@
 All notable changes to this project will be documented in this file.
 
 ## [1.1b] 
-March 2018
 ### Added 
+March 2018
 - Swipe left to delete.
 - Final build submitted to college for review.
 - Final Public Beta APK released.
 
 
 ## [1.0b] 
-February 2018
 ### Added
+February 2018
 - Added Item Description
 - First Beta package released.
 
