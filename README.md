@@ -26,6 +26,10 @@ To clone this project:
 
 [Open-source notices](NOTICE)
 
-<b>License</b>: [Copyright © 2018  Owais Shaikh and Nelson Lobo](LICENSE)
+<b>License</b>:
+
+<a href="http://www.gnu.org/licenses/gpl-3.0.en.html" rel="nofollow"><img src="https://camo.githubusercontent.com/0e71b2b50532b8f93538000b46c70a78007d0117/68747470733a2f2f7777772e676e752e6f72672f67726170686963732f67706c76332d3132377835312e706e67" alt="GNU GPLv3 Image" data-canonical-src="https://www.gnu.org/graphics/gplv3-127x51.png" width="80"></a><br> [Copyright © 2018  Owais Shaikh and Nelson Lobo](LICENSE)
+<br><br><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" width="70" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Laser Communication System</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Owais Shaikh</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://gitlab.com/users/5b43f91c61170e88de567951ebbec765/projects" rel="dct:source">https://gitlab.com/users/5b43f91c61170e88de567951ebbec765/projects</a>.
+
 
 
