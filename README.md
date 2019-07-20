@@ -1,4 +1,6 @@
-# GoGreenCampus 
+# GoGreenCampus
+
+<i>[Changelog](CHANGELOG.md)</i>
 
 This is a retired college project, made furiously by [Nelson Lobo](https://github.com/nelsonlobo99) and I, for our end-of-program Project Work (15CS67T, [DTE Karnataka](http://dte.kar.nic.in/indexe.shtml?en)), after our [Laser Communications Project](https://gitlab.com/5b43f91c61170e88de567951ebbec765/laser-communications-system) got rejected for being "too complicated" (lmao). 
 
@@ -14,8 +16,6 @@ You can grab the APK file [here](https://gitlab.com/5b43f91c61170e88de567951ebbe
 
 To clone this project:
 ```git clone https://gitlab.com/5b43f91c61170e88de567951ebbec765/gogreencampus```
-
-<i>[What's new?](CHANGELOG.md)</i>
 
 <hr>
 <b>CREDITS</b>: 
