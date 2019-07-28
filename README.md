@@ -15,7 +15,7 @@ GoGreenCampus is an open-source Android application to track waste disposal in c
 You can grab the APK file [here](https://gitlab.com/5b43f91c61170e88de567951ebbec765/gogreencampus/raw/master/Prebuilt%20APKs/app-debug.apk?inline=false). You can also clone it to your computer and build, modify and play around with it. Don't forget to create a branch and update it here, to showcase your creativity. 
 
 To clone this project:
-```git clone https://github.com/nelsonlobo99/gogreencampus-fork`
+```git clone https://github.com/nelsonlobo99/gogreencampus-fork```
 
 <hr>
 <b>CREDITS</b>: 
