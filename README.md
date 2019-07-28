@@ -15,7 +15,7 @@ GoGreenCampus is an open-source Android application to track waste disposal in c
 You can grab the APK file [here](https://gitlab.com/5b43f91c61170e88de567951ebbec765/gogreencampus/raw/master/Prebuilt%20APKs/app-debug.apk?inline=false). You can also clone it to your computer and build, modify and play around with it. Don't forget to create a branch and update it here, to showcase your creativity. 
 
 To clone this project:
-```git clone https://gitlab.com/5b43f91c61170e88de567951ebbec765/gogreencampus```
+```git clone https://github.com/nelsonlobo99/gogreencampus-fork`
 
 <hr>
 <b>CREDITS</b>: 
@@ -26,7 +26,7 @@ To clone this project:
 
 [Open-source notices](NOTICE)
 
-Link to the original repo: <a href="https://gitlab.com/5b43f91c61170e88de567951ebbec765/gogreencampus">https://gitlab.com/5b43f91c61170e88de567951ebbec765/gogreencampus</a>
+Link to the original repo: <a href="https://gitlab.com/5b43f91c61170e88de567951ebbec765/gogreencampus">https://gitlab.com/5b43f91c61170e88de567951ebbec765/gogreencampus</a><br/>
 <b>License</b>:
 
 <a href="http://www.gnu.org/licenses/gpl-3.0.en.html" rel="nofollow"><img src="https://camo.githubusercontent.com/0e71b2b50532b8f93538000b46c70a78007d0117/68747470733a2f2f7777772e676e752e6f72672f67726170686963732f67706c76332d3132377835312e706e67" alt="GNU GPLv3 Image" data-canonical-src="https://www.gnu.org/graphics/gplv3-127x51.png" width="80"></a><br> [Copyright © 2018  Owais Shaikh and Nelson Lobo](LICENSE)
